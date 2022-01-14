@@ -1,6 +1,6 @@
 ### Welcome to my GitHub page 👋
 
-My name is Michael Willis and I am an aspiring Java developer from Swansea. Fully qualified Pipe Welder and Pipe Fabricator by trade.
+My name is Michael Willis and I am an aspiring Java developer from Swansea. Fully qualified Pipe Welder and Pipe Fabricator by trade, a job I have done since I was 16 years old.
 
 ---
 
