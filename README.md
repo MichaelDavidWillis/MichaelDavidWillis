@@ -1,21 +1,25 @@
 ### Welcome to my GitHub page 👋
 
-My name is Michael Willis and I am an aspiring Java developer from Swansea. Fully qualified Pipe Welder and Pipe Fabricator by trade, a job I have done since I was 16 years old.
+My name is Michael Willis and I am a Software Developer from Swansea. Pipe Welder and Fabricator by trade, I moved careers into software engineering in 2022 at an associate level moving up to mid-level in 2023.
 
 ---
 
-### What I do
+### Commercial experience in :
 
 <P>
 <img alt="Java" src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" />
+<img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=for-the-badge)" />
+<img alt="Rails" src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?logo=rubyonrails&logoColor=fff&style=for-the-badge" />
+<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
 <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" />
 <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" />
-<img alt="Javascript" src="https://img.shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" />
+<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff&style=for-the-badge" />
+<img alt="Amazon Web Services" src="https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat-square" />
 </p>
 
 ---
 
-I am currently spending my time focusing on developing the skills and portfolio needed to change my career from the Heavy Steel industry into computers and a Java Development role.
+I currently work for [Made Tech](https://www.madetech.com/), starting as a mid-level software engineer in April 2023.
 
 ### Send me a message!
 
